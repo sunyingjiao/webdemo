@@ -62,10 +62,11 @@ a{
 	float: left;
 
 }
-.search p{
+.search a{
 	color: #fff;
-	text-align: center;
 	line-height: 2.5em;
+	margin-left: 13px;
+}
 }
 .shopping{
 	width: 150px;

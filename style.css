@@ -110,7 +110,7 @@ a{
 	padding-top: 10px;
 }
 .nav div:hover{
-	 background-image: url(../imgs/square.png);
+	 background-image: url(imgs/square.png);
 	 background-repeat: no-repeat;
 }
 .nav  div:hover a{

@@ -65,7 +65,7 @@ a{
 .search a{
 	color: #fff;
 	line-height: 2.5em;
-	margin-left: 13px;
+	margin-left: 25px;
 }
 .shopping{
 	width: 150px;
@@ -236,10 +236,10 @@ a{
 	float: left;
 }
 .foot{
-	width: 1000px;
+	width: 1100px;
 	height: 155px;
 	border-bottom:1px solid #a4a4a4;
-	margin-left: 120px;
+	margin-left: 80px;
 
 }
 #fir{
@@ -258,11 +258,9 @@ a{
 	float: right;
 	margin-right: 0px;
 }
-#last a{
-}
 .foot ul{
 	width: 80px;
-	margin-right:150px; 
+	margin-right:170px; 
 	float: left;
 }
 .fir{
@@ -285,4 +283,5 @@ a{
 	font-size: 14px;
 	color: #a4a4a4;
 }
+
 
